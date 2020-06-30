@@ -1,0 +1,6 @@
+matematik fizik GenelKimya IntMecEng matematik
+matematik fizik IntMecEng matematik boş
+boş boş boş boş boş
+boş boş boş boş boş
+matematik IntMecEng fizik boş boş
+boş boş fizik boş boş

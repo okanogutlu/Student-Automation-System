@@ -1,0 +1,8 @@
+011 matematik 5
+012 fizik 4
+013 algorithms 5
+014 DiscreteMath 3
+115 DevrelerSistemler 4
+117 Logic 3
+118 OOP 4
+119 DataStructers 4

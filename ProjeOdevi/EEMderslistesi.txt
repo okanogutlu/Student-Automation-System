@@ -1,0 +1,8 @@
+001 matematik 5
+002 fizik 4
+003 programming 4
+004 ElektrikselMalzemeler 3
+106 DiferansiyelDenklemler 4
+107 calculus3 3
+108 ekonomi 2
+109 LogicalCircuits 3

@@ -1,0 +1,8 @@
+021 matematik 5
+022 fizik 4
+023 GenelKimya 3
+024 IntMecEng 2
+025 TurkDili 2
+126 matematik3 4
+127 Dynamics 3
+129 MaterialsScience 3
